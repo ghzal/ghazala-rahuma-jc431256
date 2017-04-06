@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-<h1 style="color: blue">Some Text</h1>
-<style type="text/css">
+h1 {color: silver;}
+<a href="http://www.volleyball.org/whatis.html"</a>
 <p {font-family: "Times New Roman", Times, serif;}
-</style>
-body {background-color: yellow;}
+body {background-color: gray;}
+h1 {color: white;text-align: center;}
+p {font-family: verdana;font-size: 20px;}
